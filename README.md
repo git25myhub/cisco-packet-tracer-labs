@@ -59,7 +59,7 @@ cisco-packet-tracer-labs/
 │
 ├── CCNA Mega Lab (Jeremy's IT Lab)/
 │   └── Full enterprise-style CCNA mega lab
-│
+│       Cisco Packet Tracer ISP-NOC Lab
 ├── Day 01 Lab - Packet Tracer Introduction/
 ├── Day 08 Lab - IPv4 Addresses/
 ├── Day 09 Lab - Interface Configuration/
